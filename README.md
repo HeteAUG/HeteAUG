@@ -1,4 +1,6 @@
-## Hi there 👋
+Step 1: Import the virtual environment configuration for conda and pip.
+
+Step 2: Select the corresponding model to run (we use TONdataset as an example).
 
 <!--
 **HeteAUG/HeteAUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
