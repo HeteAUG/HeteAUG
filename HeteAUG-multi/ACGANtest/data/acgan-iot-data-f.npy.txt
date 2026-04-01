@@ -1,0 +1,6 @@
+acgan-iot-data-f.npy
+
+This file is quite large and difficult to upload, so I've posted it separately.
+
+
+
